@@ -10,7 +10,7 @@ migrate database:
 
 $ rake db:migrate
 
-to run the web app in your browser:
+run the server:
 
 $ rails s
 
