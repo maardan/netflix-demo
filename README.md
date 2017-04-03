@@ -14,8 +14,6 @@ $ rails s
 
 # netflix-client-demo
 
-clone the repo
-
 under the netflix-client-demo directory, run the fellowing command:
 
 $ npm install
